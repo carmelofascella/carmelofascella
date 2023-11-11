@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 - 👨‍🎤 Musician and live-coder.
 - 🌱 In my free time working on building my custom synthesizer using C++ and Juce.
 - 🎓 MSc Graduated in Computer Science @ Politecnico di Milano specializing in audio technologies and AI/ML.
-- 🌍 Intership @ International Audio Laboratories Erlangen - Fraunhofer IIS. Focus on audio synchronization and music information retrieval.
-- ✍🏻 Scientific Articles:
-  - [Just Dance: Detection of human body reenactment fake videos][just-dance].
-  - [Implementation of and application scenarios for plausible immersive audio via headphones][aes].
+- 🌍 Intership @ International Audio Laboratories Erlangen on music information retrieval.
 
 ## Languages and Tools:
 
@@ -36,7 +33,7 @@ Here are some ideas to get you started:
 <img align="left" alt="XCode" width="26px" src="./images/xcode.png" />
 <img align="left" alt="JavaScript" width="26px" src="./images/js.png" />
 <img align="left" alt="HTML5" width="26px" src="./images/html.png" />
-<img align="left" alt="HTML5" width="26px" src="./images/sonicpi.png" />
+<img align="left" alt="SONICPI" width="26px" src="./images/sonicpi.png" />
 
 <br>
 
@@ -48,5 +45,3 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/carmelo-fascella/
 [brandenburg-labs]: https://brandenburg-labs.com/
-[aes]: https://www.aes.org/e-lib/browse.cfm?elib=22308
-[just-dance]: https://www.researchsquare.com/article/rs-1858607/v1
