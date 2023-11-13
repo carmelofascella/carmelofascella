@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 ## Hi there, I'm Carmelo 👋
 
 - 🔭 Currently working as Audio Software Engineer and Researcher @ [Brandenburg Labs][brandenburg-labs].
-- 👨‍💻 Interested in Music Tech, DSP, Spatial Audio and AI Audio applications.
-- 👨‍🎤 Musician and live-coder.
-- 🌱 In my free time working on building my custom synthesizer using C++ and Juce.
-- 🎓 MSc Graduated in Computer Science @ Politecnico di Milano specializing in audio technologies and AI/ML.
-- 🌍 Intership @ International Audio Laboratories Erlangen on music information retrieval.
+- 💡 Focus: Music Tech, DSP, Spatial Audio and AI Audio applications.
+- 👨‍💻 Interested in developing Music Software Tools for Musicians and Artists.
+- 👨‍🎤 Musician and Live-coder.
+- 🎓 MSc Graduated in Computer Science @ Politecnico di Milano specializing in Audio Technologies and AI/ML.
+- 🌍 Intership @ International Audio Laboratories Erlangen on Music Information Retrieval.
 
 ## Languages and Tools:
 
