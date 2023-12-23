@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Interested in developing Music Software Tools for Musicians and Artists.
 - 👨‍🎤 Musician and Live-coder.
 - 🎓 MSc Graduated in Computer Science @ Politecnico di Milano specializing in Audio Technologies and AI/ML.
-- 🌍 Intership @ International Audio Laboratories Erlangen on Music Information Retrieval.
+- 🌍 Internship @ International Audio Laboratories Erlangen on Music Information Retrieval.
 
 ## Languages and Tools:
 
