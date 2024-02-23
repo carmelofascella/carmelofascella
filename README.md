@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 
 <img align="left" alt="C Plus Plus" width="26px" src="./images/c++.png" />
 <img align="left" alt="Juce" width="26px" src="./images/juce.png" />
-<img align="left" alt="Juce" width="26px" src="./images/python.png" />
-<img align="left" alt="Juce" width="26px" src="./images/maxmsp.png" />
+<img align="left" alt="CLion" width="26px" src="./images/cmake.png" />
+<img align="left" alt="Python" width="26px" src="./images/python.png" />
+<img align="left" alt="MaxMsp" width="26px" src="./images/maxmsp.png" />
+<img align="left" alt="CLion" width="26px" src="./images/clion.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="./images/vscode.png" />
 <img align="left" alt="XCode" width="26px" src="./images/xcode.png" />
 <img align="left" alt="JavaScript" width="26px" src="./images/js.png" />
