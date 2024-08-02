@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Carmelo 👋
 
-- 🔭 Currently working as Audio Software Engineer and Researcher @ [Brandenburg Labs][brandenburg-labs].
 - 💡 Focus: Music Tech, DSP, Spatial Audio and AI Audio applications.
 - 👨‍💻 Interested in developing Music Software Tools for Musicians and Artists.
 - 👨‍🎤 Musician and Live-coder.
